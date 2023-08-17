@@ -1,0 +1,60 @@
+---
+title: "Creación de Dashboard con Power Bi"
+subtitle: "Sesión #01: Instalación y  primer encuentro"
+author: 
+  - name: Yeison De La Torre, Mgtr
+    email: ydelatorre@unimagdalena.edu.co
+    affiliations:
+      - name: Universidad del Magdalena, Santa Marta
+date: "8/11/2023"
+lang: es
+toc: true
+toc-depth: 3
+toc-location: left
+toc-title: ""
+fontsize: 13pt
+number-sections: false
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+      
+self-contained: true 
+---
+
+# 1. Antes de...
+
+Antes de iniciar con el curso de Power Bi debemos instalar la herramienta de analítica `Power Bi` Para ello se ha diseñado la presente guía para su correcta instalación y funcionamiento
+
+# 2. Instalar Power BI
+
+Power BI es una plataforma unificada y escalable de inteligencia empresarial (BI) con funciones de autoservicio apta para grandes empresas. Conéctese a los datos, visualícelos e incorpore sin problemas objetos visuales en las aplicaciones que usa todos los días. (Tomado de aquí <https://powerbi.microsoft.com/es-es/what-is-power-bi/>)
+
+## 2.1. Descargar el Software
+
+Primero debe descargar la versión de [**Power BI**](https://www.microsoft.com/es-es/download/details.aspx?id=58494)compatible con el sistema operativo de nuestro equipo
+
+**Sistema operativo compatible**
+
+-   Windows 10; Windows Server 2012 R2; Windows Server 2012; Windows 8; Windows 8.1; Windows Server 2016; Windows Server 2019; Windows 11
+
+-   Microsoft Power BI Desktop requiere Internet Explorer 10 o superior.
+
+-   Microsoft Power BI Desktop está disponible para plataformas de 32 bits (x86) y 64 bits (x64).
+
+## 2.2. Instalación
+
+![](images/20230817_140345Edit%20(1).gif){fig-align="center" width="344"}
+
+## 2.3 Desplegado
+
+![](images/desplegado.gif){fig-align="center" width="343"}
+
+Para el uso de la herramientas no es necesario un usuario; por lo tanto puedes cerrar las ventanas emergentes.
+
+si tu organización posee algún tipo de convenio con Microsoft 365, puedes iniciar sesión con su cuenta organizacional y listo
+
+# 3. Hemos terminado
+
+Estamos listo para aprender a usar la herramienta Power BI y aplicarlo en nuestro entorno de trabajo.
